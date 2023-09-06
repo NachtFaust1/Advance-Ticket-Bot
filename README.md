@@ -42,7 +42,7 @@ node .
 ```
 
 ### Support? 💁🏻
-If you don't understand something and/or want to ask something about the bot, you can join our [Discord](https://discord.gg/JPFAzkWDPR) server.
+If you don't understand something and/or want to ask something about the bot, you can join our [Discord](https://discord.gg/3Q7rBhHRyS) server.
 
 ### Show your support 💙
 
