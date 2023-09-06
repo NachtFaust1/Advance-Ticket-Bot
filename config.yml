@@ -1,0 +1,65 @@
+#/**
+# * @Product : Ticket Prime
+# * @Author : Nacht#2366
+# * @License : MIT
+# * Sharing files is prohibited, if so legal actions will be placed against you!
+#*/
+
+# ========== BOT CONFIG ========== #
+
+botConfig:
+  mongoURL: ""
+  Token: ""
+  Version: "1.1.0"
+
+# ========== BOT ABOUT CONFIG ========== #
+
+aboutConfig:
+  botAbout: "Ticket"
+  botDesc: "A Ticket bot that can help you manage support tickets on your discord servers."
+  supportServer: "https://discord.gg/QmczepuF7y"
+
+# ========== BOT ACTIVITY CONFIG ========== #
+activityConfig:
+  Activities: "/help | Ticket Prime"
+  Status: "online"
+  Type: 3
+
+# ========== BOT OWNER CONFIG ========== #
+ownerConfig:
+  clientOwner: 
+    devId: "928640467619434526"
+  Developer:
+    devURL: "https://devbenz.me"
+    devName: "Nacht#2366"
+
+# ========== BOT EMOJI CONFIG ========== #
+
+emojiConfig:
+  Wrong: ""
+  Right: ""
+  Loading: ""
+  Connected: ""
+  Guild: ""
+  Stats: ""
+  Slash: ""
+  TicketID: ""
+  Opened: ""
+  Closed: ""
+  OpenTime: ""
+  ticketOwner: ""
+  Claimer: ""
+
+# ========== BOT COLOR CONFIG ========== #
+
+colorConfig:
+  Main: "FFFFFF"
+  Error: "FF3333"
+  Success: "1EFF7D"
+
+#/**
+# * @Product : Ticket Prime
+# * @Author : Nacht#2366
+# * @License : MIT
+# * Sharing files is prohibited, if so legal actions will be placed against you!
+#*/
